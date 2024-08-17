@@ -1,0 +1,17 @@
+D:\Code\projectManagementApp\projectManagementApp\projectManagementApp\bin\Debug\net8.0-windows\projectManagementApp.exe
+D:\Code\projectManagementApp\projectManagementApp\projectManagementApp\bin\Debug\net8.0-windows\projectManagementApp.deps.json
+D:\Code\projectManagementApp\projectManagementApp\projectManagementApp\bin\Debug\net8.0-windows\projectManagementApp.runtimeconfig.json
+D:\Code\projectManagementApp\projectManagementApp\projectManagementApp\bin\Debug\net8.0-windows\projectManagementApp.dll
+D:\Code\projectManagementApp\projectManagementApp\projectManagementApp\bin\Debug\net8.0-windows\projectManagementApp.pdb
+D:\Code\projectManagementApp\projectManagementApp\projectManagementApp\obj\Debug\net8.0-windows\projectManagementApp.Form1.resources
+D:\Code\projectManagementApp\projectManagementApp\projectManagementApp\obj\Debug\net8.0-windows\projectManagementApp.csproj.GenerateResource.cache
+D:\Code\projectManagementApp\projectManagementApp\projectManagementApp\obj\Debug\net8.0-windows\projectManagementApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\projectManagementApp\projectManagementApp\projectManagementApp\obj\Debug\net8.0-windows\projectManagementApp.AssemblyInfoInputs.cache
+D:\Code\projectManagementApp\projectManagementApp\projectManagementApp\obj\Debug\net8.0-windows\projectManagementApp.AssemblyInfo.cs
+D:\Code\projectManagementApp\projectManagementApp\projectManagementApp\obj\Debug\net8.0-windows\projectManagementApp.csproj.CoreCompileInputs.cache
+D:\Code\projectManagementApp\projectManagementApp\projectManagementApp\obj\Debug\net8.0-windows\projectManagementApp.sourcelink.json
+D:\Code\projectManagementApp\projectManagementApp\projectManagementApp\obj\Debug\net8.0-windows\projectManagementApp.dll
+D:\Code\projectManagementApp\projectManagementApp\projectManagementApp\obj\Debug\net8.0-windows\refint\projectManagementApp.dll
+D:\Code\projectManagementApp\projectManagementApp\projectManagementApp\obj\Debug\net8.0-windows\projectManagementApp.pdb
+D:\Code\projectManagementApp\projectManagementApp\projectManagementApp\obj\Debug\net8.0-windows\projectManagementApp.genruntimeconfig.cache
+D:\Code\projectManagementApp\projectManagementApp\projectManagementApp\obj\Debug\net8.0-windows\ref\projectManagementApp.dll
